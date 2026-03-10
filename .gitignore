@@ -1,0 +1,24 @@
+# Dependências (Nunca suba esta pasta)
+node_modules/
+
+# Arquivos compilados pelo TypeScript
+*.js
+*.js.map
+*.d.ts
+*.d.ts.map
+
+# Pasta de saída (caso você use outDir: "dist" ou "build")
+dist/
+build/
+
+# Configurações locais do VS Code
+.vscode/
+
+# Logs de erro do NPM
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos do Sistema Operacional
+Thumbs.db
+.DS_Store
